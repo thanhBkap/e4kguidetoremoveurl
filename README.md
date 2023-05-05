@@ -7,8 +7,8 @@ Nếu bạn muốn xóa các hoạt động của mình đối với E4K, bạn 
 1. Đi tới Cài đặt & Quyền riêng tư của Tài khoản Facebook của bạn. Nhấp vào “Cài đặt”
 
 2. Tìm kiếm “Ứng dụng và trang web” và bạn sẽ thấy tất cả các ứng dụng và trang web mà bạn đã liên kết với Facebook của mình.
-3. 
-4. Tìm kiếm tới “E4K” trong danh sách và nhấp vào “Gỡ”
+
+3. Tìm kiếm tới “E4K” trong danh sách và nhấp vào “Gỡ”
 
 4. Tuỳ chọn và nhấp vào “Xóa, gỡ bỏ“.
 
